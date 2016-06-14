@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CVLayout</string>
+    <string name="objective">Write something about your objective whatever you like.</string>
+    <string name="background">Details of Academic Background</string>
+</resources>
